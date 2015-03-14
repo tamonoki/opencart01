@@ -1,0 +1,1 @@
+<?php echo 'a:3:{s:7:"user_id";a:1:{s:6:"soy:id";s:7:"user_id";}s:13:"redirect_link";a:1:{s:6:"soy:id";s:13:"redirect_link";}s:7:"biglogo";a:1:{s:6:"soy:id";s:7:"biglogo";}}';?>

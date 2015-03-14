@@ -1,0 +1,1 @@
+<?php echo 'a:1:{s:13:"new_item_list";a:1:{s:8:"block:id";s:13:"new_item_list";}}';?>

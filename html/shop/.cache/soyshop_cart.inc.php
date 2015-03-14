@@ -1,0 +1,1 @@
+<?php echo 'a:6:{s:10:"empty_cart";a:1:{s:6:"cms:id";s:10:"empty_cart";}s:9:"full_cart";a:1:{s:6:"cms:id";s:9:"full_cart";}s:9:"item_list";a:0:{}s:10:"item_total";a:1:{s:6:"cms:id";s:10:"item_total";}s:10:"cart_total";a:1:{s:6:"cms:id";s:10:"cart_total";}s:9:"cart_link";a:1:{s:6:"cms:id";s:9:"cart_link";}}';?>

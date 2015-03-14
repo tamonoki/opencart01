@@ -1,0 +1,4 @@
+mysql:root:itoプロジェクト
+
+soy:root:itoプロジェクトスマート
+	・/soycms/admin で開発できる

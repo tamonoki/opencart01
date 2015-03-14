@@ -1,0 +1,1 @@
+<?php echo 'a:6:{s:7:"wrapper";a:0:{}s:11:"create_link";a:1:{s:6:"soy:id";s:11:"create_link";}s:4:"list";a:1:{s:6:"soy:id";s:4:"list";}s:7:"no_site";a:1:{s:6:"soy:id";s:7:"no_site";}s:7:"message";a:1:{s:6:"soy:id";s:7:"message";}s:5:"error";a:1:{s:6:"soy:id";s:5:"error";}}';?>

@@ -1,0 +1,1 @@
+<?php echo 'a:3:{s:12:"soyshop_list";a:1:{s:6:"soy:id";s:12:"soyshop_list";}s:10:"no_soyshop";a:1:{s:6:"soy:id";s:10:"no_soyshop";}s:20:"display_soyshop_list";a:1:{s:6:"soy:id";s:20:"display_soyshop_list";}}';?>

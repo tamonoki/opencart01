@@ -1,0 +1,1 @@
+<?php echo 'a:2:{s:16:"current_calendar";a:1:{s:6:"cms:id";s:16:"current_calendar";}s:13:"next_calendar";a:1:{s:6:"cms:id";s:13:"next_calendar";}}';?>
